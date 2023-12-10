@@ -1,0 +1,46 @@
+.mainbody{
+background-color: #f8f6f3;
+padding: 80px;
+margin: 0;
+}
+
+.Checkout{
+color: #072846;
+}
+.ptag{
+color: rgb(132, 185, 27);
+}
+.hrline{
+color: #96ee38;
+}
+.hrline hr{
+border: solid 2px;
+}
+.sideform{
+    padding: 35px;
+    border: solid 2px rgb(185, 182, 182);
+}
+input{
+width: 100%;
+height: 50px;
+}
+select{
+    width: 100%;
+    height: 50px;
+}
+.si{
+    width: 13px;
+    height: 3px;
+}
+#btnn{
+background-color: #3e7305;
+color: aliceblue;
+width: 100%;
+height: 50px;
+
+}
+.ppp{
+display: inline;
+justify-content: space-between;
+margin: 85px;
+}

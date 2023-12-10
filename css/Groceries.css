@@ -1,0 +1,70 @@
+.row{
+background-color: #f8f6f3;
+padding: 50px;
+}
+.product ul {
+display: flex;
+list-style: none;
+}
+.product ul li{
+margin:0px;
+padding: 0;
+text-align: center;
+}
+.vl{
+    border-right: 1px solid rgb(186, 190, 186);
+    height: 100%;
+}
+.fliterline{
+    position: absolute;
+    background-color: #000;
+    height: 2px;
+    width: 12%;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  .boxx{
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff;
+    margin: 10px;
+    display: inline-block;
+   border-radius: #000;
+}
+.sideproduct{
+margin-right: 0;
+padding-left: 0%;
+box-sizing: 50px;
+
+}
+.sideproduct ul {
+display: inline;
+list-style: none;
+}
+.sideproduct ul li{
+margin:0px;
+padding: 0;
+text-align:left;
+}
+.hhh{
+color: #8bc34a;
+}
+.copyright{
+  background-color: #f2faff;
+  padding-top: 1%;
+  text-align: center;
+  
+  }
+  .copyy{
+  margin-bottom:0;
+  margin-left: 10px;
+  }
+  .logoo{
+  color: rgb(80, 92, 103);
+  justify-content: space-between;
+  margin-left: 10px;
+  }
+  .logoo svg{
+  margin: 8px;
+  }
